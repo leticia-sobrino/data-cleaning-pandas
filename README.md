@@ -1,4 +1,4 @@
 # data-cleaning-pandas
-![](shark2_grande.jpeg)                               
+![](IMG_shark2.jpg)                               
 
 
