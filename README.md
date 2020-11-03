@@ -1,6 +1,4 @@
 # data-cleaning-pandas
-![](shark.jpeg)                               
+![](IMG_peces_Amigos.jpg)                               
 
-1. Cleaning
-2. Analysis
-3. Conclusions
+
